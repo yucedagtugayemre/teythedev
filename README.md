@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @teythedev
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Tugay Emre Yucedag
+- 👨🏻‍💻 I work on flutter projects in my business life
 - 🌱 I’m currently learning iOS Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 teythedev/teythedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
